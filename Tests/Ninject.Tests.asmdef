@@ -1,0 +1,23 @@
+{
+    "name": "Ninject.Tests",
+    "rootNamespace": "Ninject.Tests",
+    "references": [
+        "GUID:bb7027fd5db15ef429442efb3ed775e1"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": true,
+    "precompiledReferences": [
+        "nunit.framework.dll",
+        "Ninject.dll"
+    ],
+    "autoReferenced": false,
+    "defineConstraints": [
+        "UNITY_INCLUDE_TESTS"
+    ],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

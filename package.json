@@ -1,0 +1,8 @@
+{
+    "name": "com.ninjet.ninject",
+    "displayName": "Ninject",
+    "version": "3.3.6",
+    "author": "ninject",
+	"description": "http://www.ninject.org/",
+	"dependencies":{}
+}
